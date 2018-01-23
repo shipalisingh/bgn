@@ -11,9 +11,9 @@ void main()
     	n=n/10;
 }
 if(temp==r)
-	printf("Pallindrome");
+	printf("Yes");
 	else
 	{
-		printf("Not A Palindrome");
+		printf("No");
 	}
 	}
